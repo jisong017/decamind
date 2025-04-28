@@ -28,7 +28,7 @@
 
 | 분야 | 사용 기술 |
 |:---|:---|
-| AI 모델링 | Pre-trained LLM + RAG 검색 (FAISS) |
+| AI 모델링 | Pre-trained LLM + RAG 검색 (ChromaDB) |
 | Backend | FastAPI, Vector Search DB |
 | Frontend | React 기반 UI/UX 설계 |
 | 기타 | Papago API (번역), OpenAI API (이미지 캡션) |
